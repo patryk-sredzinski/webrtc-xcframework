@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
-  spec.name = "LiveKitWebRTC"
-  spec.version = "125.6422.11"
+  spec.name = "LiveKitWebRTC-Vama"
+  spec.version = "125.6422.11-Vama"
   spec.summary = "Custom WebRTC build for LiveKit"
   spec.description = <<-DESC
     LiveKit version Dynamic WebRTC XCFramework
